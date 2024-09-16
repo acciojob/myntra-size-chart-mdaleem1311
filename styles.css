@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+         
+        /* th {
+			border: 1px solid black;
+            padding: 2px;
+            background-color: #F0A8D0;
+			color:white;
+          } */
+        /* td {
+			border: 1px solid black;
+            padding: 2px;
+            text-align: left;
+            background-color: #F7B5CA;
+        } */
+        /* tr {
+            background-color:#FFC6C6;
+        } */
+        tr:hover td {
+            background-color: #f1f1f1;
+        }
